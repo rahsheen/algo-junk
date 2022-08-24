@@ -1,2 +1,2 @@
-# algo-junk
+# algorithms-exercises
 Created with CodeSandbox
